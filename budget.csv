@@ -1,0 +1,201 @@
+Year,Sector,Budget_Crore
+2016,Defence,420000.0
+2017,Defence,466856.92
+2018,Defence,487885.88
+2019,Defence,527109.31
+2020,Defence,569952.46
+2021,Defence,594028.45
+2022,Defence,620099.74
+2023,Defence,691370.37
+2024,Defence,734381.01
+2025,Defence,777519.07
+2016,Education,90000.0
+2017,Education,96536.06
+2018,Education,103117.08
+2019,Education,111645.04
+2020,Education,118177.02
+2021,Education,127991.22
+2022,Education,139813.67
+2023,Education,153246.39
+2024,Education,159535.02
+2025,Education,177848.48
+2016,Health,70000.0
+2017,Health,75750.42
+2018,Health,83899.39
+2019,Health,88755.05
+2020,Health,95385.21
+2021,Health,103127.17
+2022,Health,111709.04
+2023,Health,116602.4
+2024,Health,127023.64
+2025,Health,136327.33
+2016,Railways,180000.0
+2017,Railways,198173.19
+2018,Railways,207328.03
+2019,Railways,228632.67
+2020,Railways,250252.78
+2021,Railways,261873.27
+2022,Railways,274625.97
+2023,Railways,293172.68
+2024,Railways,305992.98
+2025,Railways,332812.15
+2016,Agriculture,110000.0
+2017,Agriculture,123070.58
+2018,Agriculture,135239.71
+2019,Agriculture,141113.8
+2020,Agriculture,149237.42
+2021,Agriculture,162467.71
+2022,Agriculture,180852.73
+2023,Agriculture,201753.76
+2024,Agriculture,212714.91
+2025,Agriculture,236155.34
+2016,MSME,12000.0
+2017,MSME,12571.6
+2018,MSME,13506.67
+2019,MSME,15097.08
+2020,MSME,16669.39
+2021,MSME,17529.04
+2022,MSME,19536.79
+2023,MSME,20913.1
+2024,MSME,22793.74
+2025,MSME,24907.98
+2016,Road Transport,180000.0
+2017,Road Transport,195345.87
+2018,Road Transport,210320.64
+2019,Road Transport,231470.28
+2020,Road Transport,245672.06
+2021,Road Transport,271912.63
+2022,Road Transport,303410.19
+2023,Road Transport,329057.08
+2024,Road Transport,360941.78
+2025,Road Transport,377350.72
+2016,Home Affairs,160000.0
+2017,Home Affairs,168805.05
+2018,Home Affairs,181361.28
+2019,Home Affairs,200761.17
+2020,Home Affairs,211304.72
+2021,Home Affairs,223901.54
+2022,Home Affairs,235763.36
+2023,Home Affairs,258136.83
+2024,Home Affairs,276250.61
+2025,Home Affairs,288557.26
+2016,Rural Development,130000.0
+2017,Rural Development,138220.14
+2018,Rural Development,146549.63
+2019,Rural Development,156060.73
+2020,Rural Development,171447.08
+2021,Rural Development,179784.95
+2022,Rural Development,196649.49
+2023,Rural Development,207013.31
+2024,Rural Development,228159.94
+2025,Rural Development,237490.57
+2016,Jal Shakti,65000.0
+2017,Jal Shakti,69712.17
+2018,Jal Shakti,73955.72
+2019,Jal Shakti,80739.77
+2020,Jal Shakti,84727.48
+2021,Jal Shakti,93563.51
+2022,Jal Shakti,98980.06
+2023,Jal Shakti,109432.64
+2024,Jal Shakti,115803.57
+2025,Jal Shakti,123757.59
+2016,Communications,70000.0
+2017,Communications,78244.62
+2018,Communications,83290.87
+2019,Communications,88421.92
+2020,Communications,97432.28
+2021,Communications,102416.03
+2022,Communications,110044.45
+2023,Communications,115056.71
+2024,Communications,124096.77
+2025,Communications,138279.5
+2016,Space,11000.0
+2017,Space,11702.26
+2018,Space,12346.43
+2019,Space,13607.01
+2020,Space,14189.22
+2021,Space,15249.02
+2022,Space,16478.54
+2023,Space,18421.41
+2024,Space,20521.46
+2025,Space,21686.7
+2016,Science & Technology,18000.0
+2017,Science & Technology,19957.96
+2018,Science & Technology,21370.77
+2019,Science & Technology,22889.61
+2020,Science & Technology,24301.43
+2021,Science & Technology,26575.02
+2022,Science & Technology,29520.0
+2023,Science & Technology,31161.79
+2024,Science & Technology,32437.24
+2025,Science & Technology,35562.99
+2016,Power,14000.0
+2017,Power,15377.7
+2018,Power,17201.71
+2019,Power,19247.81
+2020,Power,20050.14
+2021,Power,21810.77
+2022,Power,24100.83
+2023,Power,25878.4
+2024,Power,28045.41
+2025,Power,30276.98
+2016,Women & Child Development,18000.0
+2017,Women & Child Development,19113.48
+2018,Women & Child Development,21107.69
+2019,Women & Child Development,23584.71
+2020,Women & Child Development,25602.24
+2021,Women & Child Development,27929.41
+2022,Women & Child Development,30141.89
+2023,Women & Child Development,33062.98
+2024,Women & Child Development,34945.22
+2025,Women & Child Development,37388.27
+2016,Renewable Energy,12000.0
+2017,Renewable Energy,13402.77
+2018,Renewable Energy,14344.59
+2019,Renewable Energy,15317.44
+2020,Renewable Energy,16168.93
+2021,Renewable Energy,17336.6
+2022,Renewable Energy,18605.71
+2023,Renewable Energy,20033.18
+2024,Renewable Energy,20956.72
+2025,Renewable Energy,23433.04
+2016,Commerce,11000.0
+2017,Commerce,12088.55
+2018,Commerce,12713.33
+2019,Commerce,13450.4
+2020,Commerce,14610.27
+2021,Commerce,16303.43
+2022,Commerce,17242.66
+2023,Commerce,18626.04
+2024,Commerce,20650.07
+2025,Commerce,22469.45
+2016,External Affairs,16000.0
+2017,External Affairs,17420.14
+2018,External Affairs,19330.46
+2019,External Affairs,21269.47
+2020,External Affairs,22724.42
+2021,External Affairs,23874.0
+2022,External Affairs,26099.15
+2023,External Affairs,27259.27
+2024,External Affairs,29146.84
+2025,External Affairs,32176.66
+2016,Petroleum,14000.0
+2017,Petroleum,14945.64
+2018,Petroleum,15725.91
+2019,Petroleum,16484.6
+2020,Petroleum,17799.75
+2021,Petroleum,19839.55
+2022,Petroleum,21995.26
+2023,Petroleum,22997.23
+2024,Petroleum,23977.21
+2025,Petroleum,26194.12
+2016,Housing & Urban Affairs,70000.0
+2017,Housing & Urban Affairs,77802.37
+2018,Housing & Urban Affairs,83441.14
+2019,Housing & Urban Affairs,87828.37
+2020,Housing & Urban Affairs,96022.92
+2021,Housing & Urban Affairs,107063.58
+2022,Housing & Urban Affairs,113098.22
+2023,Housing & Urban Affairs,121497.67
+2024,Housing & Urban Affairs,130291.64
+2025,Housing & Urban Affairs,136913.28
